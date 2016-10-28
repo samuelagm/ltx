@@ -1,8 +1,8 @@
 {
-  "name": "ltx",
+  "name": "ltx-ea",
   "version": "2.5.0",
-  "description": "<xml for=\"JavaScript\">",
-  "author": "Astro",
+  "description": "<xml for=\"JavaScript\" type=\"Environment Agnostic\">",
+  "author": "Samuel Agbonkpolo",
   "repository": "github:samuelagm/ltx",
   "homepage": "https://github.com/samuelagm/ltx",
   "bugs": "https://github.com/samuelagm/ltx/issues",
