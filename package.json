@@ -3,9 +3,9 @@
   "version": "2.5.0",
   "description": "<xml for=\"JavaScript\">",
   "author": "Astro",
-  "repository": "github:node-xmpp/ltx",
-  "homepage": "http://github.com/node-xmpp/ltx",
-  "bugs": "http://github.com/node-xmpp/ltx/issues",
+  "repository": "github:samuelagm/ltx",
+  "homepage": "https://github.com/samuelagm/ltx",
+  "bugs": "https://github.com/samuelagm/ltx/issues",
   "contributors": [
     "Stephan Maka",
     "Will Fife",
@@ -26,7 +26,8 @@
     "test": "npm run unit && npm run lint && npm run bundle"
   },
   "dependencies": {
-    "inherits": "^2.0.1"
+    "inherits": "^2.0.1",
+    "node-event-emitter": "0.0.1"
   },
   "devDependencies": {
     "benchmark": "^2.1.0",
