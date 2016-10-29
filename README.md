@@ -2,7 +2,7 @@
 
 `Environment Agnostic JavaScript XML library`
 
-`Based on the original ltx, but no tied to node's  event emmitter`
+`Based on the original ltx, but not tied to nodejs events module`
 
 [![build status](https://img.shields.io/travis/node-xmpp/ltx/master.svg?style=flat-square)](https://travis-ci.org/node-xmpp/ltx/branches)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)
