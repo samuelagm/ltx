@@ -2,5 +2,6 @@
 !.gitignore
 !.npmignore
 !.travis.yml
+/.idea/
 
 bundle.js
